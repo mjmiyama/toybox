@@ -8,6 +8,8 @@ authors = ["Masamichi J. Miyama <miyama@sigmailab.com>"]
 python = "^3.9"
 optuna = "^2.10.1"
 plotly = "^5.8.2"
+matplotlib = "^3.5.2"
+POT = "^0.8.2"
 
 [tool.poetry.dev-dependencies]
 ipykernel = "^6.15.0"
