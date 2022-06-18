@@ -1,3 +1,5 @@
+# Copyright 2022 Masamichi J. Miyama
+
 from concurrent import futures
 import numpy as np
 import openjij as oj
