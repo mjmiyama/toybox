@@ -10,6 +10,10 @@ optuna = "^2.10.1"
 plotly = "^5.8.2"
 matplotlib = "^3.5.2"
 POT = "^0.8.2"
+python-dotenv = "^0.20.0"
+fastapi-users = "^10.1.5"
+uvicorn = "^0.18.3"
+aiosqlite = "^0.17.0"
 
 [tool.poetry.dev-dependencies]
 ipykernel = "^6.15.0"
